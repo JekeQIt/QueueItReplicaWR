@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+*.log
+
+# Kept locally only
+Queue-it - Custom Theme White Paper.pdf
+_legacy/
+files/vendor/
